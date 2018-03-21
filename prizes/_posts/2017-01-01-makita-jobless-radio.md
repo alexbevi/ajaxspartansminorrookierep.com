@@ -1,0 +1,8 @@
+---
+title: Makita Jobsite Cordless Radio - Retail Value $154.00
+subtitle: For rich stereo sound, the Makita Cordless Jobsite Radio delivers with two powerful 3.25 side-firing drivers. Rugged weather resistant case and protective bumper design for job site conditions assures you'll be rockin' job after job.
+layout: 2017_default
+modal-id: 1
+thumbnail:  makita.png
+winner: Alcli
+---
